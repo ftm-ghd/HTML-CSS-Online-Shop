@@ -1,18 +1,26 @@
-# HTML CSS Online Shop
+# HTML CSS Registration Form
 
-A simple online shop user interface created using pure HTML and CSS.
+A simple registration form user interface built using HTML5 and CSS3.
+
+## Live Demo
+
+🔗 **View the project online:**
+https://ftm-ghd.github.io/HTML-CSS-Online-Shop/
 
 ## Features
 
-- Persian RTL layout
-- Custom Persian font integration
-- Product showcase section
-- Product images
-- Pricing and discount table
-- External product links
-- CSS hover effects and styling
+- Persian RTL support
+- Custom Persian font
+- Registration form layout
+- Text, email, and password input fields
+- Styled submit button
+- CSS focus and hover effects
 
 ## Technologies
 
 - HTML5
 - CSS3
+
+## Screenshots
+
+![Online Shop Screenshot](screenshots/HTML-CSS-Online-Shop.PNG)
