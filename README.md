@@ -19,4 +19,4 @@ A simple online shop user interface created using pure HTML and CSS.
 
 ## Screenshots
 
-![HTML CSS Online Shop](screenshot/HTML-CSS-Online-Shop.PNG)
+<img src="screenshot/HTML-CSS-Online-Shop.PNG" width="800">
