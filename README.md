@@ -1,2 +1,22 @@
-# HTML-CSS-Online-Shop
-A Persian RTL online shop webpage designed using HTML5 and CSS3 with product showcase, pricing table, images, and styled UI components.
+# HTML CSS Online Shop
+
+A simple online shop user interface created using pure HTML and CSS.
+
+## Features
+
+- Persian RTL layout
+- Custom Persian font integration
+- Product showcase section
+- Product images
+- Pricing and discount table
+- External product links
+- CSS hover effects and styling
+
+## Technologies
+
+- HTML5
+- CSS3
+
+## Screenshots
+
+![Online Shop Screenshot](screenshots/HTML-CSS-Online-Shop.PNG)
