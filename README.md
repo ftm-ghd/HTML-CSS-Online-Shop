@@ -16,7 +16,3 @@ A simple online shop user interface created using pure HTML and CSS.
 
 - HTML5
 - CSS3
-
-## Screenshots
-
-<img src="screenshot/HTML-CSS-Online-Shop.PNG" width="800">
